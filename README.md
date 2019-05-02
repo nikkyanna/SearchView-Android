@@ -1,2 +1,2 @@
 # SearchView-Android
-Mainactivity with an imageview in toolbar. When imageview is clicked; activity is replaced with a fragment. Fragment contains SearchView to search.
+Library to implement SearchView. Search and display results in Recyclerview.
